@@ -12162,11 +12162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Documents\\SimpleAPI-master\\src\\SimpleAPI\\SimpleAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Desktop\\APISIMPLE\\src\\SimpleAPI\\SimpleAPI.csproj",
       "projectName": "SimpleAPI",
-      "projectPath": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Documents\\SimpleAPI-master\\src\\SimpleAPI\\SimpleAPI.csproj",
+      "projectPath": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Desktop\\APISIMPLE\\src\\SimpleAPI\\SimpleAPI.csproj",
       "packagesPath": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Documents\\SimpleAPI-master\\src\\SimpleAPI\\obj\\",
+      "outputPath": "C:\\Users\\Usuario.DESKTOP-VVIQIPE\\Desktop\\APISIMPLE\\src\\SimpleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
